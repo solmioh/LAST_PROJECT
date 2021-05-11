@@ -66,7 +66,7 @@
 <details markdown="1">
 <summary>접기/펼치기</summary>
 
-<img src="https://user-images.githubusercontent.com/78997066/117229387-e4dbdf00-ae55-11eb-880e-c76bdc5367e0.png">
+<img src="https://user-images.githubusercontent.com/78997066/117780510-a93c7d00-b27a-11eb-81c7-a4ee4db4e640.png">
 </details>
 
 ### 🔗 WBS
@@ -83,7 +83,7 @@
 <details markdown="1">
 <summary>접기/펼치기</summary>
 
-<img src="https://user-images.githubusercontent.com/78997066/117229569-3a17f080-ae56-11eb-9753-68cf9a25553f.png">
+<img src="https://user-images.githubusercontent.com/78997066/117780576-ba858980-b27a-11eb-8aaf-abaa8dbbf70b.png">
 </details>
 
 ### 🔗 개발 목록
